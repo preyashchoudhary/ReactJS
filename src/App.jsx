@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <div>
-          <img src={reactLogo} className="logo react" alt="React logo" />
+          
       </div>
         
     </>
