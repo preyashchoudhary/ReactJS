@@ -11,7 +11,7 @@
 .hero-container {
   background: linear-gradient(45deg, #120faa, #c274f0);
   height: fit-content;
-  color: aliceblue;
+  color: white;
   font-family: "Poppins";
   text-align: center;
   padding: 15px 0;
@@ -125,3 +125,66 @@ button:hover {
 
 
 /* Card CSS Ends here */
+
+/* Info CSS Starts here */
+
+.info-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 15px;
+  background: linear-gradient(45deg, #120faa, #c274f0);
+  height: fit-content;
+  padding: 20px 6%;
+}
+
+.info-card {
+  background: linear-gradient(45deg, rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0));
+  color: black;
+  padding-bottom: 12px;
+  margin: 1%;
+  width: 300px;
+  height: 340px;
+  box-shadow: rgba(80, 80, 88, 0.2) 5px 7px 25px 0px;
+  border-radius: 12px;
+  border: 2px solid rgba(255, 255, 255, 0.41);
+}
+
+.info-card img {
+  object-fit: cover;
+  border-radius: 12px;
+  margin-top: 20px;
+  width: 100px;
+  height: 100px;
+}
+
+.info-card h3 {
+  text-align: center;
+  margin: 8px 0px;
+  font-family: "Poppins", sans-serif;
+  color: white;
+  text-transform: uppercase;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+.info-card p {
+  text-align: center;
+  font-size: 14px;
+  margin: 8px 20px;
+  font-family: "Poppins", sans-serif;
+  color: white;
+}
+
+/* Info CSS Ends here */
+
+/* Footer CSS Starts here */
+
+.footer-container {
+  background-color: #000;
+  color: #fff;
+  font-family: "Poppins";
+  text-align: center;
+  padding: 15px;
+
+}
