@@ -21,46 +21,30 @@ createRoot(document.getElementById('root')).render(
     <Hero />
     <div className="card-container">
     <Card image={leonbet}
-          bonus="100% upto Rs. 100,000" 
-          p1="Good casino" p2="wow casino" p3="Good casino app" 
-          url="https://google.com"/>
+          bonus="150% Bonus upto Rs. 60,000" 
+          p1="Legit Online Casino" p2="300+ Football Markets" p3="24/7 Customer Support" 
+          url="https://leon.bet/en-in/"/>
 
     <Card image={megapari}
-          bonus="100% upto Rs. 200,000" 
-          p1="Good casino" p2="wow casino" p3="Good casino app" 
-          url="https://google.com"/>
+          bonus="Get Bonus upto Rs. 30,000" 
+          p1="40+ Sports Offered" p2="Best Sports & Casino" p3="Fast Deposit & Withdrawals" 
+          url="https://mp578283.top/en"/>
 
     <Card image={parimatch} 
-          bonus="100% upto Rs. 100,000" 
-          p1="Good casino" p2="wow casino" p3="Good casino app" 
-          url="https://google.com"/>
+          bonus="150% Bonus upto Rs. 105,000" 
+          p1="All Casino & Sports" p2="Famous Brand in India" p3="Free Bets on Every Deposits" 
+          url="https://pm-bet.in/en"/>
 
     <Card image={win1}
-          bonus="100% upto Rs. 100,000" 
-          p1="Good casino" p2="wow casino" p3="Good casino app" 
-          url="https://google.com"/>
+          bonus="Welcome Bonus upto 500%" 
+          p1="Instant Withdrawals" p2="Over 3000 Unique Games" p3="Live Dealers" 
+          url="https://1wpvxj.top/"/>
 
     <Card image={dafabet}
-          bonus="100% upto Rs. 100,000" 
-          p1="Good casino" p2="wow casino" p3="Good casino app" 
-          url="https://google.com"/>
+          bonus="200% Bonus upto Rs. 20,000" 
+          p1="Great, Competitive Odds" p2="User Friendly Interface" p3="Massive Sports Games" 
+          url="https://www.dafavip.asia/in/"/>
 
-    <Card image={win1}
-          bonus="100% upto Rs. 100,000" 
-          p1="Good casino" p2="wow casino" p3="Good casino app" 
-          url="https://google.com"/>
-
-    <Card image={win1}
-          title="Preyash" 
-          bonus="100% upto Rs. 100,000" 
-          p1="Good casino" p2="wow casino" p3="Good casino app" 
-          url="https://google.com"/>
-
-    <Card image={win1}
-          title="Preyash" 
-          bonus="100% upto Rs. 100,000" 
-          p1="Good casino" p2="wow casino" p3="Good casino app" 
-          url="https://google.com"/>
     </div>
     <div className="whyus">
       <h2>Why Use Our Casino Sites?</h2>
