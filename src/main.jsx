@@ -62,7 +62,10 @@ createRoot(document.getElementById('root')).render(
           p1="Good casino" p2="wow casino" p3="Good casino app" 
           url="https://google.com"/>
     </div>
-    <div className="info-container">
+    <div className="whyus">
+      <h2>Why Use Our Casino Sites?</h2>
+      <p>The process behind recommending Casino sites typically involves a thorough analysis of various factors such as the site's reputation, game variety, security measures, payment options, customer support, and bonuses or promotions offered.</p>
+     <div className="info-container">
       <Info image={img1}
             heading="Security"
             p="Our team of casino enthusiasts, online casino employees, offers expert advice, unique benefits, and filters out unreliable sites. For quality, bonuses, free spins, and a professional approach to gambling, you're in the right place."/>
@@ -81,7 +84,8 @@ createRoot(document.getElementById('root')).render(
       <Info image={img6}
             heading="mobile compatibility"
             p="Online Casino are now optimized for mobile devices, allowing players to enjoy their favourite games on the go, anywhere and anytime they want. This flexibility is a significant perk for online casino players."/>
-    </div>
+     </div>
+    </div> 
     <div className="footer-container">
       <h5>Created By Preyash❤️</h5>
     </div>

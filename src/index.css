@@ -128,13 +128,31 @@ button:hover {
 
 /* Info CSS Starts here */
 
+.whyus {
+  background: linear-gradient(45deg, #c274f0, #120faa);
+  height: fit-content;
+  font-family: "Poppins";
+  color: #fff;
+  text-align: center;
+  padding: 25px 0px 10px 0px;
+}
+
+.whyus h2 {
+  font-weight: 700;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+.whyus p {
+  margin: 15px 5% 5px 5%;
+}
+
 .info-container {
   display: flex;
   align-items: center;
   justify-content: center;
   flex-wrap: wrap;
   gap: 15px;
-  background: linear-gradient(45deg, #120faa, #c274f0);
+  background: linear-gradient(45deg, #c274f0, #120faa);
   height: fit-content;
   padding: 20px 6%;
 }
@@ -186,5 +204,5 @@ button:hover {
   font-family: "Poppins";
   text-align: center;
   padding: 15px;
-
+  border-top: 7px solid #120faa;
 }
